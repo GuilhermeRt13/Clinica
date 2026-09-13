@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Estética Médica Verona",
+  "description": "Clínica Estética Médica Verona en Iquique. Especialistas en rejuvenecimiento, reparación de la piel, armonización facial, bioestimuladores y tecnología estética.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
